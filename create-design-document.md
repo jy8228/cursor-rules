@@ -1,4 +1,4 @@
-# Rule: Generating a UX specifications Document
+# Rule: Generating a Design Document
 
 ## Goal
 These guidelines help AI assistants create clear, actionable UX/UI specifications that designers and developers can implement effectively. Focus on user experience, visual design, and interaction patterns.
@@ -7,8 +7,8 @@ These guidelines help AI assistants create clear, actionable UX/UI specification
 
 1.  **Receive Initial Prompt:** The user provides requirments or provides relevant documents to design UX of the product.
 2.  **Ask Clarifying Questions:** Before make UX designs, the AI should ask clarifying questions to gather sufficient detail. AI assistant can skip this step if all the details are already clarified by user's prompt or provided documents. Make sure to provide options in letter/number lists so I can respond easily with my selections.
-3.  **Generate UX specfications:** Based on the initial prompt and the user's answers to the clarifying questions, generate a UX specifications using the structure outlined below.
-4.  **Save UX specifications:** Save the generated document as `ux-spec-[feature-name].md` inside the `/tasks` directory.
+3.  **Generate UX and design specfications:** Based on the initial prompt and the user's answers to the clarifying questions, generate a UX specifications using the structure outlined below.
+4.  **Save Design Document:** Save the generated document as `design-document.md` inside the `/tasks` directory.
 
 ## Clarifying Questions (Examples)
 
@@ -157,7 +157,7 @@ Assume the primary reader of the document is a **junior developer/designer**. Th
 
 *   **Format:** Markdown (`.md`)
 *   **Location:** `/tasks/`
-*   **Filename:** `ux-spec-[feature-name].md`
+*   **Filename:** `design-document.md`
 
 ## Final instructions
 
