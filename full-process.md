@@ -92,6 +92,7 @@ This process ensures a systematic approach to product development, starting from
 - Follow all technical guidelines
 
 **→ See detailed guide:** [dev-guidelines.md](dev-guidelines.md)
+**→ See detailed guide:** [process-task-list.md](process-task-list.md)
 
 ---
 
